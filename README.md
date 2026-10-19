@@ -121,5 +121,10 @@ The previously failed check was now marked as **Passed**.
 ![Password Policy Passed](screenshots/password_policy_passed.png)
 
 ## 6. Skills I learned
+-Deploying and utilizing Wazuh Siem environment
+-Connecting and monitoring endpoint.
+-Windows security event logs
+-Investigating and fixing security alerts with Wazuh threat hunting.
+-Performing secuirty configuration assessments using benchmarks.
 
 
